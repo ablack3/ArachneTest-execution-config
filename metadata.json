@@ -2,7 +2,7 @@
     "analysisName": "Test execution config",
     "analysisType": "CUSTOM",
     "runtimeEnvironmentName": "Darwin Runtime",
-    "dockerRuntimeEnvironmentImage": "executionengine.azurecr.io/darwin-base:v0.3" 
+    "dockerRuntimeEnvironmentImage": "executionengine.azurecr.io/darwin-base:v0.3", 
     "entryPoint": "main.R",
     "studyName": "My study"
 }
